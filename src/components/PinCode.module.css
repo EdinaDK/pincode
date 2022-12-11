@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Century Gothic";
+    font-size: 14pt;
+}
+
+button {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 13px;
+    margin: 1px;
+    cursor: pointer;
+    font-size: 10pt;
+    height: 40px;
+}
+
+.butt {
+    width: 100px;
+}
+
+.numbers {
+    width: 50px;
+}
+
+label {
+    color: darkred;
+    font-size: 18pt;
+}
+
+
+
